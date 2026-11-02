@@ -1,0 +1,4 @@
+dados_kaggle/
+checkpoint_experiments/
+**.pt
+**.onnx
